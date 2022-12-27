@@ -1,0 +1,20 @@
+FizzBuzz:
+Comment smell
+Temporary variable text
+Long method
+
+
+PlaintextToHtmlConverter:
+Comment smell
+Unnecessary methods: pushACharacterToTheOutput()
+Inappropriate name smell
+Switch case smell
+Long method smell
+
+
+TriviaGame:
+Unnecessary method: createRockQuestion(),howManyPlayers()
+Dead code smell: isPlayable()
+Long method smell
+Duplicate code
+
